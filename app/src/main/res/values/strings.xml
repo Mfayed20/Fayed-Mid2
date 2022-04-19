@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fayed-Mid 2</string>
+    <string-array name="cities">
+        <item>london</item>
+        <item>riyadh</item>
+        <item>Mecca</item>
+        <item>Medina</item>
+    </string-array>
+</resources>
